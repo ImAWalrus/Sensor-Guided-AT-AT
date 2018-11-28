@@ -1,5 +1,5 @@
 //-------------------------------------------------//
-// Authors: Michael Gonzales, Jessie Ibarra, Gavin //            
+// Authors: Michael Gonzales, Jesse Ibarra         //            
 // Date: 1-6-17                                    //
 //                                                 //
 // Purpose: Simple rover timed hopping             //
